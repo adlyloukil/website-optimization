@@ -1,3 +1,14 @@
+#How to Run?
+Run index.html for portfolio and /view/pizza.html for the pizzaria
+
+#Portfolio/Pizzaria Optimization
+
+* Images were optimised using ImageOptim
+* CSS & JS was minified, style.css was inlined
+* Media print query added
+* Moved JS and font to the bottom and added async to font and analytics.
+* Images were saved locally instead of requesting them
+
 ## Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
